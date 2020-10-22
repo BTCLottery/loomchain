@@ -30,12 +30,12 @@ Loom Protocol powers Basechain, an interoperable DPoS blockchain that is live in
 1. Set the value of the `LOOM_SRC` environment variable as follows:
 
   ```shell
-  LOOM_SRC=$GOPATH/src/github.com/loomnetwork/loomchain
+  LOOM_SRC=$GOPATH/src/github.com/BTCLottery/loomchain
   ```
 2. Clone the repository into the `$LOOM_SRC` directory:
 
   ```shell
-  git clone git@github.com:loomnetwork/loomchain.git $LOOM_SRC
+  git clone git@github.com:BTCLottery/loomchain.git $LOOM_SRC
   ```
 
 3. Install dependencies:
